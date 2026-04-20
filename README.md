@@ -1,4 +1,4 @@
-# Investigate-and-Identify-Events-with-KQL
+# Investigate and Identify Events with KQL
 
 ![image](https://github.com/garrick8jackson/Investigate-and-Identify-with-KQL/blob/8ae258650a3a022beecd823ba2beb772412483f2/kql%201.png)
 
