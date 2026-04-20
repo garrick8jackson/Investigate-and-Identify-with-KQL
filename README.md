@@ -4,7 +4,7 @@
 
 After accessing my log analytics workspace and navigating to the logs, i entered a query to search for security events related to a specific user 
 
-![image](
+![image](https://github.com/garrick8jackson/Investigate-and-Identify-with-KQL/blob/977a03e7eb0fd0fa085e57560b21084beef69a61/kql%202.png)
 
 Next i added to the query to examine the user account’s authentication events to pinpoint any suspicious login attempts 
 
