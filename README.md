@@ -1,6 +1,6 @@
 # Investigate-and-Identify-Events-with-KQL
 
-![image](
+![image](https://github.com/garrick8jackson/Investigate-and-Identify-with-KQL/blob/8ae258650a3a022beecd823ba2beb772412483f2/kql%201.png)
 
 After accessing my log analytics workspace and navigating to the logs, i entered a query to search for security events related to a specific user 
 
